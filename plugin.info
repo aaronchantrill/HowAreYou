@@ -1,0 +1,9 @@
+[Plugin]
+Name = HowAreYou
+Version = 1.0.0
+License = MIT
+URL = http://projectnaomi.com
+Description = How are you?
+
+[Author]
+Name = Aaron Chantrill
